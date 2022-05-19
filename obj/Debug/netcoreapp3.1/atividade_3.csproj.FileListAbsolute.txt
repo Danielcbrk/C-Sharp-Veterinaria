@@ -1,0 +1,80 @@
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\bin\Debug\netcoreapp3.1\appsettings.json
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\bin\Debug\netcoreapp3.1\atividade_3.exe
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\bin\Debug\netcoreapp3.1\atividade_3.deps.json
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\bin\Debug\netcoreapp3.1\atividade_3.runtimeconfig.json
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\bin\Debug\netcoreapp3.1\atividade_3.runtimeconfig.dev.json
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\bin\Debug\netcoreapp3.1\atividade_3.dll
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\bin\Debug\netcoreapp3.1\atividade_3.pdb
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\bin\Debug\netcoreapp3.1\atividade_3.Views.dll
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\bin\Debug\netcoreapp3.1\atividade_3.Views.pdb
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\obj\Debug\netcoreapp3.1\atividade_3.csprojAssemblyReference.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\obj\Debug\netcoreapp3.1\atividade_3.AssemblyInfoInputs.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\obj\Debug\netcoreapp3.1\atividade_3.AssemblyInfo.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\obj\Debug\netcoreapp3.1\atividade_3.csproj.CoreCompileInputs.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\obj\Debug\netcoreapp3.1\atividade_3.MvcApplicationPartsAssemblyInfo.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\obj\Debug\netcoreapp3.1\atividade_3.RazorAssemblyInfo.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\obj\Debug\netcoreapp3.1\atividade_3.RazorAssemblyInfo.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\obj\Debug\netcoreapp3.1\atividade_3.TagHelpers.input.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\obj\Debug\netcoreapp3.1\atividade_3.TagHelpers.output.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\obj\Debug\netcoreapp3.1\atividade_3.RazorCoreGenerate.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\obj\Debug\netcoreapp3.1\atividade_3.RazorTargetAssemblyInfo.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\obj\Debug\netcoreapp3.1\atividade_3.RazorTargetAssemblyInfo.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\obj\Debug\netcoreapp3.1\atividade_3.Views.pdb
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\obj\Debug\netcoreapp3.1\staticwebassets\atividade_3.StaticWebAssets.Manifest.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\obj\Debug\netcoreapp3.1\staticwebassets\atividade_3.StaticWebAssets.xml
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\obj\Debug\netcoreapp3.1\atividade_3.dll
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\obj\Debug\netcoreapp3.1\atividade_3.pdb
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\obj\Debug\netcoreapp3.1\atividade_3.genruntimeconfig.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\obj\Debug\netcoreapp3.1\atividade_3.csproj.CopyComplete
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\obj\Debug\netcoreapp3.1\Razor\Views\Home\servicos.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Agendamento.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05\atividade_3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Listagem.cshtml.g.cs
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\bin\Debug\netcoreapp3.1\appsettings.json
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\bin\Debug\netcoreapp3.1\atividade_3.exe
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\bin\Debug\netcoreapp3.1\atividade_3.deps.json
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\bin\Debug\netcoreapp3.1\atividade_3.runtimeconfig.json
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\bin\Debug\netcoreapp3.1\atividade_3.runtimeconfig.dev.json
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\bin\Debug\netcoreapp3.1\atividade_3.dll
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\bin\Debug\netcoreapp3.1\atividade_3.pdb
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\bin\Debug\netcoreapp3.1\atividade_3.Views.dll
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\bin\Debug\netcoreapp3.1\atividade_3.Views.pdb
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\obj\Debug\netcoreapp3.1\atividade_3.csprojAssemblyReference.cache
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\obj\Debug\netcoreapp3.1\atividade_3.AssemblyInfoInputs.cache
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\obj\Debug\netcoreapp3.1\atividade_3.AssemblyInfo.cs
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\obj\Debug\netcoreapp3.1\atividade_3.csproj.CoreCompileInputs.cache
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\obj\Debug\netcoreapp3.1\atividade_3.MvcApplicationPartsAssemblyInfo.cache
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\obj\Debug\netcoreapp3.1\atividade_3.RazorAssemblyInfo.cache
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\obj\Debug\netcoreapp3.1\atividade_3.RazorAssemblyInfo.cs
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\obj\Debug\netcoreapp3.1\atividade_3.TagHelpers.input.cache
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\obj\Debug\netcoreapp3.1\atividade_3.TagHelpers.output.cache
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\obj\Debug\netcoreapp3.1\atividade_3.RazorCoreGenerate.cache
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Agendamento.cshtml.g.cs
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Listagem.cshtml.g.cs
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Servicos.cshtml.g.cs
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\obj\Debug\netcoreapp3.1\atividade_3.RazorTargetAssemblyInfo.cache
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\obj\Debug\netcoreapp3.1\atividade_3.RazorTargetAssemblyInfo.cs
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\obj\Debug\netcoreapp3.1\atividade_3.Views.pdb
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\obj\Debug\netcoreapp3.1\staticwebassets\atividade_3.StaticWebAssets.Manifest.cache
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\obj\Debug\netcoreapp3.1\staticwebassets\atividade_3.StaticWebAssets.xml
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\obj\Debug\netcoreapp3.1\atividade_3.dll
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\obj\Debug\netcoreapp3.1\atividade_3.pdb
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\obj\Debug\netcoreapp3.1\atividade_3.genruntimeconfig.cache
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC05-Codificar aplicacoes web\atividade_3\obj\Debug\netcoreapp3.1\atividade_3.csproj.CopyComplete
